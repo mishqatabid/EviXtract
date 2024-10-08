@@ -81,4 +81,4 @@ Designed to acquire, image, and analyze storage devices while performing metadat
    Scans `syslog.log` for suspicious patterns (e.g., failed login attempts, port scans) and saves the results in `suspicious_logs.txt`.
 
 
-This digital forensics tool offers a modular and comprehensive approach to forensic investigation. Supporting disk imaging,
+This digital forensics tool offers a modular and comprehensive 
