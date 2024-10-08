@@ -11,7 +11,7 @@ Designed to acquire, image, and analyze storage devices while performing metadat
 - **Log Analysis**: Scans system logs for suspicious activities based on predefined attack patterns.
 
 
-Sample Data
+## Sample Data
 The following sample data is used for testing and demonstration purposes:
 
 mydisk.dd: Sample raw data from a storage device.
