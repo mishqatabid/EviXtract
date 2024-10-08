@@ -81,4 +81,3 @@ Designed to acquire, image, and analyze storage devices while performing metadat
    Scans `syslog.log` for suspicious patterns (e.g., failed login attempts, port scans) and saves the results in `suspicious_logs.txt`.
 
 
-This digital forensics 
