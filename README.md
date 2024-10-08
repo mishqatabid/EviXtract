@@ -81,4 +81,4 @@ Designed to acquire, image, and analyze storage devices while performing metadat
    Scans `syslog.log` for suspicious patterns (e.g., failed login attempts, port scans) and saves the results in `suspicious_logs.txt`.
 
 
-This digital forensics tool offers a modular and comprehensive approach to forensic investigation. Supporting disk imaging, filesystem analysis, metadata extraction, network traffic capture, and log analysis, the tool enables investigators to gather and preserve critical evidence while ensuring a forensically sound process.
+This digital forensics tool offers a modular and comprehensive approach to forensic investigation. Supporting disk imaging, filesystem analysis, metadata extraction, network traffic capture, and log analysis, the tool enables investigators to gather and preserve criti
