@@ -1,6 +1,6 @@
 # EviXtract - Digital Forensics Tool
 
-The digital forensics tool is designed to acquire, image, and analyze storage devices while performing metadata extraction, network traffic capture, and log analysis. This tool supports digital forensic investigations by helping investigators systematically collect, preserve, and analyze digital evidence.
+Designed to acquire, image, and analyze storage devices while performing metadata extraction, network traffic capture, and log analysis. This tool supports digital forensic investigations by helping investigators systematically collect, preserve, and analyze digital evidence.
 
 ## Key Features
 - **Data Acquisition**: Captures raw data from a storage device using the `dd` command for forensic analysis.
