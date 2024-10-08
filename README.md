@@ -14,7 +14,7 @@ Designed to acquire, image, and analyze storage devices while performing metadat
 ## Sample Data
 The following sample data is used for testing and demonstration purposes:
 - **mydisk.dd:** Sample raw data from a storage device.
-- output.img: disk image created for analysis.
+- **output.img:** disk image created for analysis.
 - suspicious_logs.txt: Sample log file containing detected suspicious activities.
 
 
