@@ -40,9 +40,7 @@ Designed to acquire, image, and analyze storage devices while performing metadat
 - **Purpose**: Command-line interface to integrate all modules.
 - **Function**: Provides options to run each module individually or in combination, allowing the investigator to perform various forensic tasks.
 
-## Usage Example
-
-### Scenario: Full Forensic Investigation
+## 
 
 1. **Acquire Data from a Device**:
    ```bash
