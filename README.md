@@ -10,6 +10,8 @@ Designed to acquire, image, and analyze storage devices while performing metadat
 - **Network Packet Capture**: Captures network traffic and saves suspicious packets for analysis.
 - **Log Analysis**: Scans system logs for suspicious activities based on predefined attack patterns.
 
+
+
 ## Modules Overview
 
 ### `acquire.py`
@@ -39,6 +41,8 @@ Designed to acquire, image, and analyze storage devices while performing metadat
 ### `main.py`
 - **Purpose**: Command-line interface to integrate all modules.
 - **Function**: Provides options to run each module individually or in combination, allowing the investigator to perform various forensic tasks.
+
+
 
 ## Commands
 
